@@ -1,3 +1,42 @@
 h1 {
   color: red;
 }
+h1 {
+  font-size: 90px;
+}
+h2 {
+  font-family: lobster, monospace;
+}
+
+body {
+  background-color: rgb(8, 160, 187);
+}
+p {
+  color: rgb(223, 206, 61);
+}
+h2 {
+  text-align: left;
+  background-color: rgba(255, 165, 0);
+  font-size: 55px;
+  font-weight: 800;
+}
+.thick-orange-border {
+  border-color: orange;
+  border-width: 55px;
+  border-style: solid;
+}
+img {
+  width: 250px;
+}
+div {
+  width: 300px;
+  border: 15px solid rgb(255, 49, 66);
+  padding: 35px;
+  margin: 20px;
+}
+#button {
+  button: hover color red;
+}
+h4 {
+  color: #ff0000;
+}
